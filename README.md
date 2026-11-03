@@ -20,3 +20,6 @@ A investigação compara **os requisitos solicitados**, **o que a IA afirma ter 
 
 - **Relatório final** com fundamentação teórica, método, prompts, capturas da interface, resultados da avaliação, discussão e conclusão.
 - **Seminário** para apresentar a interface e os principais resultados da investigação.
+
+Projeto: https://ihcdesign.lovable.app
+Questionário: 
