@@ -1,6 +1,8 @@
 ## Trabalho da disciplina de Interação Humano Computador
 Professora: Heloise Manica Paris Teixeira
+
 Dupla: Giovana da Silva Bulcão e Cintia da Silva Bulcão
+
 IA utilizada: Lovable
 
 ### Objetivo
